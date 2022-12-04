@@ -24,24 +24,29 @@
 This is a project created with the objective to contain the projects I do for YouTube, [DevALMO](https://www.youtube.com/@andrelusegardis).
 
 ## Prerequisites
+
 To run in Windows 10 you need to install some tools, like: NodeJS, Chocolatey and more. [here](https://github.com/MestreALMO/React-Requires-To-Run-Windows-) is how to install all of it.
 <br/>
 
-
 ## Running
+
 first time accesse run:
+
 ```
 yarn
 ```
+
 after that you can run the project with:
+
 ```
 yarn dev
 ```
 
-<br />You can access it with ```http://localhost:3000/``` and ```http://localhost:3001/```
+<br />You can access it with `http://localhost:3000/` and `http://localhost:3001/`
 
 ## YouTube
-Video: https://youtu.be/e7EF23f0rbs
+
+Video: https://youtu.be/Humxa9BM_iA
 
 ## Contact
 
